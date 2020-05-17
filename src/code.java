@@ -45,7 +45,7 @@ public class code {
 			System.out.println ("nice");
 				}
 				}
-		
+		 
 		
 		
 		
