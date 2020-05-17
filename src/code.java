@@ -44,7 +44,7 @@ public class code {
 			else {
 			System.out.println ("nice");
 				}
-				}
+				}  
 		 
 		
 		
